@@ -1,7 +1,8 @@
-# Sudoku-
+# Sudoku
 homework assignment to build a Sudoku game for the user .
 the using of dynamic array is a must .
 use the struct and main that given.
+jump to [source code](https://github.com/dt170/Sudoku-/blob/master/ConsoleApplication1/ConsoleApplication1/Source.c)
 
 # Struct
  ```
