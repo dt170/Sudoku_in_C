@@ -1,8 +1,9 @@
 # Sudoku-
 homework assignment to build a Sudoku game for the user .
 the using of dynamic array is a must .
-use the struct and main that given
- #struct
+use the struct and main that given.
+
+# Struct
  ```
 typedef struct _Array
 {
